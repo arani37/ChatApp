@@ -142,6 +142,4 @@ Please ensure your code follows the ESLint rules and includes appropriate tests 
 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
 Contact
-For questions, suggestions, or feedback, reach out via GitHub Issues or contact the maintainer at your-email@example.com.
-
-Built with ❤️ by arani37. Happy coding!
+For questions, suggestions, or feedback, reach out via GitHub Issues or contact the maintainer at aranimishra437@gmail.com

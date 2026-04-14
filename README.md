@@ -66,9 +66,9 @@ npm start
 
 ---
 
-## 📸 Screenshots
+## 🧠 Architecture
 
-(Add screenshots here)
+Frontend → Backend → Real-time communication → Users
 
 ---
 

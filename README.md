@@ -22,8 +22,8 @@ ChatApp is a web-based messaging application that allows users to send and recei
 ## 🛠️ Tech Stack
 
 * JavaScript
-* Node.js (if used)
-* Express (if used)
+* React.js
+* Firebase
 * HTML & CSS
 
 ---
